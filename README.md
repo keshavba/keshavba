@@ -6,7 +6,7 @@ I have gained extensive experience with C# and object-oriented design through se
 game using C# and Unity and have developed several systems for the game, such as the time, purchasing, and character customization systems. I have familiarity with Java and C through 
 my programming classes. I explored mobile app development in a recent collaborative project using Flutter and Dart and developed a forum app prototype. I recently participated in a 
 hackathon and contributed to the development of the front-end of a translation app using JavaScript, React Native, and Node.js. I have also been learning HTML, CSS, and JavaScript to 
-build my personal website.
+learn the fundamentals of web development.
 
 In all these projects, I have contributed to ideation, worked on the implementation of the ideas, and created necessary presentations to communicate the project’s importance. I 
 have been cultivating my problem-solving skills and possess the communication skills necessary for effective collaboration. These projects have involved several challenges, and 

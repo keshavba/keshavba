@@ -1,4 +1,4 @@
-Hello! I am Keshav Balaji, a sophomore computer science major at The University of Texas at Arlington. I am currently looking for opportunities to explore 
+Hello! I am Keshav Balaji, a rising sophomore computer science major at The University of Texas at Arlington. I am currently looking for opportunities to explore 
 software engineering and am interested in web development, mobile app development, and game development. My hobbies include reading fictional books, watching and playing video games, 
 and working on programming projects. In the long run, I am hoping to build a career as a software engineer.
 
